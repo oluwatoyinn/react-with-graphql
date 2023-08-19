@@ -1,0 +1,27 @@
+.App {
+  max-width: 70rem;
+  margin: 10rem auto;
+}
+
+.single_character {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-evenly;
+}
+
+.char {
+  border: 2px solid grey;
+  margin: 10px;
+}
+
+.character {
+  display: flex;
+}
+
+.character-item {
+  margin-left: 2rem;
+}
+
+.character-epi {
+  margin-top: 2rem;
+}
